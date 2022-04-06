@@ -4,7 +4,9 @@ The Low Hardware TCU, a blaster with barely any non-printed parts.
 ## Description
 
 First prototype overview video: https://youtu.be/5S6BHtGkTe0
+
 First prototype chronographing: https://www.youtube.com/watch?v=TaB3t4Z32X0
+
 
 This is the Low Hardware TCU, a blaster with barely any non-printed parts. It uses no screws, no metal pins, barely anything that isn't printed. The only non-printed parts are
 
