@@ -15,7 +15,7 @@ This is the Low Hardware TCU, a blaster with barely any non-printed parts. It us
 - 1x 012 o-ring
 - 2x -123 o-rings
 
-The plunger tube is a fully printed design that fits in standard TCs, Caliburns, and Lynxes. The barrel is a fully printed design, with a SCAR. The ramrod is fully printed in a sturdy and strong way. The U channels are all printed. Everything is held together by interlocking parts, dovetails, and some friction. 
+The plunger tube is a fully printed design that fits in standard TCs, Caliburns, and Lynxes without modification to the blaster. Just lengthen the plunger tube in CAD to fit the length of your blaster. The barrel is a fully printed design, with a SCAR. The ramrod is fully printed in a sturdy and strong way. The U channels are all printed. Everything is held together by interlocking parts, dovetails, and some friction. 
 
 The blaster hits 160 avg with k25. Below a normal TCU, but still impressive for a blaster like this. The blaster can take Talon and Katana magazines. 
 
