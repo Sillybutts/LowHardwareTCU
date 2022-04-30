@@ -27,7 +27,7 @@ The blaster hits 120 avg with 788. Much below a normal TCU, but still very impre
 
 All STLs were exported in print orientation. The F3D and STEP source files are also provided.
 
-Print the barrel, SCAR, priming bars, U channels, and ramrod at 100% infill, 5 walls. Everything else can be done at 10% 5 walls.
+Print the barrel, SCAR, priming bars, U channels, ramrod, PTlining, and PTshell at 100% infill, 5 walls. Everything else can be done at 10% 5 walls.
 
 
 ## Misc.
