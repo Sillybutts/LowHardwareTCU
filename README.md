@@ -7,6 +7,7 @@ Blaster overview: https://www.youtube.com/watch?v=glRXdd7pP-U
 
 Printed plunger tube overview: https://www.youtube.com/watch?v=QpMW5P51Vow
 
+Full assembly video here: WIP
 
 This is the Low Hardware TCU, a blaster with barely any non-printed parts. It uses no screws, no metal pins, barely anything that isn't printed. The only non-printed parts are
 
@@ -32,6 +33,10 @@ Print the barrel, SCAR, priming bars, U channels, ramrod, PTlining, and PTshell 
 No supports were needed for my printer. But if your printer or material doesn't bridge or do steep angles well, then use supports.
 
 Print 2 of each U channel segment, 2 of "MagwellSide" and 3 of the "Spacer" part.
+
+Depending on print tolerancing for your printer, part cleanup and chamfering with a knife might be needed for assembly. A hammer and a clamp might also be useful.
+
+Full assembly video here: WIP
 
 ## Misc.
 
