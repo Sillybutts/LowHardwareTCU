@@ -63,4 +63,10 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
-<img src="GHimages/" width="500">
+<img src="GHimages/LHTCU%20v10.png" width="500">
+<img src="GHimages/LHTCU%20v10%202.png" width="500">
+<img src="GHimages/LHTCU%20v10%203.png" width="500">
+<img src="GHimages/LHTCU%20v10%204.png" width="500">
+<img src="GHimages/LHTCU%20v10%205.png" width="500">
+<img src="GHimages/LHTCU%20v10%206.png" width="500">
+
