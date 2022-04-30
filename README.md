@@ -3,26 +3,31 @@ The Low Hardware TCU, a blaster with barely any non-printed parts.
 
 ## Description
 
-First prototype overview video: https://youtu.be/5S6BHtGkTe0
+Blaster overview: https://www.youtube.com/watch?v=glRXdd7pP-U
 
-First prototype chronographing: https://www.youtube.com/watch?v=TaB3t4Z32X0
+Printed plunger tube overview: https://www.youtube.com/watch?v=QpMW5P51Vow
 
 
 This is the Low Hardware TCU, a blaster with barely any non-printed parts. It uses no screws, no metal pins, barely anything that isn't printed. The only non-printed parts are
 
-- 2 rubber bands
-- k25 or 788 main spring
+- 3 rubber bands (1 for the mag releases, 2 for the trigger/sear)
+- TC length 788 main spring
 - 1x 012 o-ring
 - 2x -123 o-rings
 
-The plunger tube is a fully printed design that fits in standard TCs, Caliburns, and Lynxes without modification to the blaster. Just lengthen the plunger tube in CAD to fit the length of your blaster. Use more lubrication in the plunger tube than you normally would.
+## "Really? You can print THAT?!"
+
+The plunger tube is a fully printed design that fits in standard TCs without modification to the blaster. Use more lubrication in the plunger tube than you normally would. Printed plunger tubes for other popular homemades can be found here: https://github.com/Sillybutts/PrintedPlungerTubes
 
 The barrel is a fully printed design, with a SCAR. The ramrod is fully printed in a sturdy and strong way. The U channels are all printed. Everything is held together by interlocking parts, dovetails, and some friction. 
 
-The blaster hits 160 avg with k25. Below a normal TCU, but still impressive for a blaster like this. The blaster can take Talon and Katana magazines. 
+The blaster hits 120 avg with 788. Much below a normal TCU, but still very impressive for a blaster like this. The blaster can take Talon and Katana magazines. 
 
+## Printing
 
-All STLs were exported in print orientation. The F3D source file is also provided.
+All STLs were exported in print orientation. The F3D and STEP source files are also provided.
+
+Print the barrel, SCAR, priming bars, U channels, and ramrod at 100% infill, 5 walls. Everything else can be done at 10% 5 walls.
 
 
 ## Misc.
