@@ -31,6 +31,8 @@ Print the barrel, SCAR, priming bars, U channels, ramrod, PTlining, and PTshell 
 
 No supports were needed for my printer. But if your printer or material doesn't bridge or do steep angles well, then use supports.
 
+Print 2 of each U channel segment, 2 of "MagwellSide" and 3 of the "Spacer" part.
+
 ## Misc.
 
 **If you build any of my designs, I'd love to see yours! Feel free to message me on Discord (Sillybutts#5905) or tag me on a post on Reddit (u/SillyTheGamer).**
