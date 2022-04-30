@@ -29,6 +29,7 @@ All STLs were exported in print orientation. The F3D and STEP source files are a
 
 Print the barrel, SCAR, priming bars, U channels, ramrod, PTlining, and PTshell at 100% infill, 5 walls. Everything else can be done at 10% 5 walls.
 
+No supports were needed for my printer. But if your printer or material doesn't bridge or do steep angles well, then use supports.
 
 ## Misc.
 
