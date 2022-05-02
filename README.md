@@ -1,6 +1,8 @@
 # LowHardwareTCU
 The Low Hardware TCU, a blaster with barely any non-printed parts.
 
+- Changelog: 5-2-22: I apparently posted the wrong Plunger and SpringCap files. Please use the updated current files.
+
 ## Description
 
 Blaster overview: https://www.youtube.com/watch?v=glRXdd7pP-U
