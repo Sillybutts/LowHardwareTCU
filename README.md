@@ -3,6 +3,10 @@ The Low Hardware TCU, a blaster with barely any non-printed parts.
 
 - Changelog: 5-2-22: I apparently posted the wrong Plunger and SpringCap files. Please use the updated current files.
 
+<img src="GHimages/IMG_20220508_150121436.jpg" width="500">
+
+<img src="GHimages/LHTCU%20v10.png" width="500">
+
 ## Description
 
 Blaster overview: https://www.youtube.com/watch?v=glRXdd7pP-U
@@ -65,6 +69,7 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
+<img src="GHimages/IMG_20220508_150121436.jpg" width="500">
 <img src="GHimages/LHTCU%20v10.png" width="500">
 <img src="GHimages/LHTCU%20v10%202.png" width="500">
 <img src="GHimages/LHTCU%20v10%203.png" width="500">
